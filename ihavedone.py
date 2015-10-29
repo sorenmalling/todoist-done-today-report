@@ -2,7 +2,7 @@ import todoist
 from datetime import date
 import sys
 
-if len(sys.argv) >= 2:
+if len(sys.argv) < 2:
     print 'You must give a token as parameter'
     sys.exit(1)
 
