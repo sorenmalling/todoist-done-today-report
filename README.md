@@ -2,7 +2,11 @@
 
 Call `python ihavedone.py <apiKey>`
 
-Returns
+## Requirements
+`pip install todoist-python`
+
+## Returns
+
 ```
 2 # Count of items done
 Fri 30 Oct 2015 10:05:57 +0000 --> Something
